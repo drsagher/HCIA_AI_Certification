@@ -81,10 +81,10 @@ Basic technologies are the foundational tools, frameworks, and platforms that su
 - **Programming Languages**: Python (dominant due to simplicity), R, and Julia for AI development.
 
 **Frameworks and Libraries**:
-- **TensorFlow (Google): Open-source ML framework for neural networks.
-- **PyTorch (Meta AI): Preferred for research and dynamic computation graphs.
-- **Hugging Face: Transformers library for NLP and generative AI.
-- **LangChain: Framework for building applications with LLMs.
+- **TensorFlow (Google)**: Open-source ML framework for neural networks.
+- **PyTorch (Meta AI)**: Preferred for research and dynamic computation graphs.
+- **Hugging Face**: Transformers library for NLP and generative AI.
+- **LangChain**: Framework for building applications with LLMs.
 
 **Cloud Platforms**:
 - **AWS (Amazon)**: Offers SageMaker for ML model development.
