@@ -135,5 +135,10 @@ Huawei’s Global AI Initiatives in 2025 are a cornerstone of its "All Intellige
 | Model Zoo    | 500+ models | Pre-trained industry solutions   |
 
 
+## Huawei`s Full-Stack, All Scenario AI Portfolio
+Huawei’s Full-Stack, All-Scenario AI Portfolio in 2025 is a comprehensive suite of AI solutions designed to empower industries and developers worldwide, integrating hardware, software, and services to enable seamless AI development and deployment across cloud, edge, and device environments. Anchored by Huawei’s Ascend AI chips (e.g., Ascend 910C and 910D), the portfolio includes the ModelArts platform for streamlined model development, training, and deployment; HiLens for multimodal AI applications like intelligent surveillance and autonomous driving; and the Pangu models, which support industry-specific solutions in healthcare (e.g., medical report analysis), finance (e.g., fraud detection), and smart mining (e.g., Shandong Energy Group’s efficiency gains). The Huawei Cloud Ascend AI Cloud Service facilitates large-scale model training and inference, while tools like CANN (Compute Architecture for Neural Networks) and MindSpore, an open-source deep learning framework, enhance performance and accessibility. The portfolio supports diverse scenarios, from smart cities and campuses to in-vehicle systems, leveraging device-cloud synergy for real-time processing with low latency. Huawei’s Reliable, Agile, and Sustainable Data Infrastructure (RASTM) ensures efficient AI data centers, with over $140 million invested annually in R&D and a 70,000 m² lab driving innovation. Despite challenges like U.S. sanctions impacting chip yields (e.g., 20% for Ascend 910C) and regulatory complexities (e.g., GDPR compliance), Huawei’s portfolio, backed by global initiatives like the ICT Competition and partnerships with firms like Zode, positions it as a competitive alternative to Nvidia and AWS, driving AI adoption in regions like the Middle East, Central Asia, and the Global South, aligning with national strategies such as Saudi Arabia’s Vision 2030.
+
+<img src="fsai.png" alt="Fullstack AI" />
+
 
 
