@@ -31,5 +31,28 @@ Huawei Cloud Enterprise Intelligence (EI) is a comprehensive AI platform designe
 | **Computer Vision** | Image classification, object detection, facial recognition | Smart retail (inventory tracking), manufacturing (quality control), traffic monitoring |
 | **Predictive Analytics** | Time-series forecasting, anomaly detection, recommendation systems | Financial fraud prevention, supply chain optimization, personalized marketing |
 
-
 Huawei Cloud EI helps businesses automate processes, enhance decision-making, and unlock AI-driven growth—whether through AI-powered call centers, smart document processing, or real-time visual analytics.
+
+## ModelArts
+ModelArts, developed by Huawei Cloud, is a one-stop AI development platform designed to empower developers and data scientists of all skill levels to build, train, and deploy machine learning models efficiently across cloud, edge, and device environments. In 2025, it supports the full AI development lifecycle, including data preprocessing, semi-automated labeling, distributed training, automated model building, and one-click deployment, accelerating innovation in industries like healthcare (e.g., automated medical report interpretation), finance (e.g., fraud detection), and transportation (e.g., autonomous driving control). ModelArts leverages heterogeneous computing resources, including Huawei’s Ascend AI chips and mainstream GPUs, and supports open-source frameworks like TensorFlow, PyTorch, and MindSpore, alongside its MoXing deep learning framework for high-performance training. Its ExeML feature enables code-free model creation for image classification, object detection, and predictive analytics, making AI accessible to non-experts. With a 50% boost in development efficiency through end-to-end toolchains, robust data privacy in Europe (Open Telekom Cloud), and capabilities like intelligent diagnosis and model optimization (e.g., heat maps, ROC curves), ModelArts addresses adoption barriers like cost and complexity but faces challenges in competing with platforms like AWS SageMaker due to regional regulatory differences and infrastructure costs.
+
+### Key Capabilities
+Automated Machine Learning (AutoML): Enables users with limited ML expertise to build high-accuracy models using automated data labeling, feature engineering, and hyperparameter tuning.
+Flexible Development Frameworks: Supports TensorFlow, PyTorch, MindSpore (Huawei’s native framework), and Scikit-learn, allowing seamless integration with existing workflows.
+Distributed Training: Accelerates model training with multi-GPU/CPU clusters and Huawei’s Ascend 910 AI processors, significantly reducing training time for large datasets.
+Model Zoo & Pre-trained Models: Offers 100+ industry-ready models for computer vision (CV), natural language processing (NLP), speech recognition, and more—optimized for quick deployment.
+Hybrid & Edge Deployment: Supports cloud, on-premises, and edge deployment via containers, APIs, or integration with HiLens for edge AI applications.
+
+### Industry Applications
+ModelArts is widely used across sectors, including:
+- **Healthcare**: Medical imaging analysis (e.g., tumor detection).
+- **Manufacturing**: Predictive maintenance and defect detection.
+- **Finance**: Fraud detection and risk assessment.
+- **Retail**: Personalized recommendations and inventory automation.
+
+### Why Choose ModelArts?
+- **End-to-End Pipeline**: Covers data → training → deployment → monitoring.
+- **Cost-Effective**: Pay-as-you-go pricing with optimized resource usage.
+- **Enterprise-Grade Security**: Compliant with global data protection standards (GDPR, etc.).
+- **Seamless Integration**: Works with Huawei HiLens, GaussDB, and Huawei Cloud EI for full-stack AI solutions.
+
