@@ -67,4 +67,29 @@ Huawei HiLens is a multimodal AI development and runtime management platform tha
 **Framework Support**: Compatible with ModelArts-trained models.
 
 ### Integration Workflow
+<img src="hilen.png" alt="HiLen" />
 
+**Why Integrate?**
+- Seamless Transition: Train in ModelArts → Optimize for edge → Deploy via HiLens.
+- Performance: HiLens reduces latency by processing data locally (critical for real-time apps).
+- Unified Management: Monitor all edge devices and models from a single console.
+
+**Use Case Example: Smart Retail**
+- Train a product recognition model in ModelArts.
+- Convert to HiLens-optimized format (e.g., OM model).
+- Deploy to store cameras via HiLens for real-time shelf monitoring.
+
+## ModelArts vs HiLens Comparison
+
+| Feature                | ModelArts                          | HiLens                              |
+|------------------------|-----------------------------------|-------------------------------------|
+| **Primary Purpose**    | Cloud-based AI development platform | Edge AI deployment platform        |
+| **Workflow Stage**     | Training & development            | Inference & execution              |
+| **Target Environment** | Cloud servers/GPU clusters        | Edge devices (cameras, IoT)        |
+| **Key Strengths**      | • AutoML<br>• Distributed training<br>• Model zoo | • Low-latency inference<br>• Pre-built skills<br>• Device management |
+| **Model Optimization** | Hyperparameter tuning             | Model quantization & pruning       |
+| **Deployment Speed**   | Minutes (container/API-based)     | Seconds (pre-installed skills)     |
+| **Supported Frameworks** | TensorFlow, PyTorch, MindSpore   | Optimized for edge models          |
+| **Use Case Example**   | Training CV model for defect detection | Running model on factory cameras  |
+| **Integration**        | Can export models to HiLens       | Receives models from ModelArts     |
+| **Pricing Model**      | Pay-as-you-go (compute hours)     | Per device/skill licensing         |
