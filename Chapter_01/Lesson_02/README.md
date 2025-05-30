@@ -130,3 +130,7 @@ Infrastructure encompasses the hardware, computing resources, and data ecosystem
 - **Talent shortage**: Lack of skilled engineers to manage complex infrastructure.
 
 The AI industry ecosystem in 2025 is a synergistic network of AI Applications, Technical Direction, AI Elements, Basic Technologies, and Infrastructure. Applications transform industries like healthcare and finance, driven by technical trends like generative and edge AI. AI elements (e.g., deep learning, NLP) are enabled by basic technologies (e.g., PyTorch, AWS) and powered by robust infrastructure (e.g., NVIDIA GPUs, cloud platforms). Despite challenges like cost, ethics, and regulation, the ecosystem is poised for exponential growth, with a projected market size of USD 1.77 trillion by 2030. Understanding these components and their interconnections is crucial for stakeholders aiming to innovate and navigate the AI landscape effectively.
+
+## Sub-fields of AI
+
+<img src="subAIf.png" alt="Alt Text"  >
