@@ -12,3 +12,5 @@ The **HCIA-AI (Huawei Certified ICT Associate - Artificial Intelligence)** certi
 **Chapterization**
 
 [Chapter 1 Introduction to AI & Huawei Strategy](Chapter_01/README.md)
+
+[Chapter 2 Python for AI (ModelArts Tools)](Chapter_02/README.md)
