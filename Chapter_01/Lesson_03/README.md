@@ -56,3 +56,15 @@ ModelArts is widely used across sectors, including:
 - **Enterprise-Grade Security**: Compliant with global data protection standards (GDPR, etc.).
 - **Seamless Integration**: Works with Huawei HiLens, GaussDB, and Huawei Cloud EI for full-stack AI solutions.
 
+## Huawei HiLens
+Huawei HiLens is a multimodal AI development and runtime management platform that facilitates device-cloud synergy, enabling developers to create, deploy, and manage visual and auditory AI applications across diverse scenarios like smart homes, retail, campuses, and transportation. Launched by Huawei Cloud, HiLens integrates with the ModelArts platform to support seamless model development, allowing direct import of models trained in ModelArts or offline in formats like Caffe, which are converted to OM models for Huawei’s Ascend 310 and HiSilicon 35xx series chips. It offers a developer-friendly framework with unified APIs, a cloud-based management console, and a skill market providing pre-built AI skills (e.g., face detection, license plate recognition) for one-click deployment. HiLens Kit cameras and AI edge stations, capable of processing up to 16 video channels, support real-time analysis with low latency and reduced cloud storage costs through end-side computing, making it ideal for applications like intelligent surveillance and in-vehicle systems. In 2025, HiLens serves three user types—ordinary users (e.g., homeowners for security), AI developers (building custom skills), and camera manufacturers (enhancing device AI capabilities)—but faces challenges like high development costs, regional regulatory compliance (e.g., GDPR in Europe), and competition from platforms like AWS SageMaker. Its integration with Huawei’s ecosystem and focus on reducing AI development barriers through tools like HiLens Studio and ModelBox positions it as a key player in the global AI market, particularly in Asia-Pacific.
+
+**Purpose**: Deploys optimized AI models to edge devices (cameras, IoT sensors).
+
+### Key Features:
+**Device Management**: Unified control for edge devices.
+**Skill Marketplace**: Pre-trained AI skills (e.g., face recognition, anomaly detection).
+**Framework Support**: Compatible with ModelArts-trained models.
+
+### Integration Workflow
+
