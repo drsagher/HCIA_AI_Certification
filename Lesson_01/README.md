@@ -1,5 +1,22 @@
 # Lesson 1 Introduction to AI & Huawei Strategy
 
+
+“I propose to consider the question, Can machines think.”  **--Alan Turing**
+
+“Make machines behave like humans” **--Jon McCarthy** 
+
+“Artificial intelligence is the science of making machine do things that would require intelligence if done by men” **--Marvin Minsky**
+
+"Artificial intelligence is the new electricity." **--Andrew Ng** 
+
+"The future of AI is not about replacing humans, but augmenting them." **--Fei-Fei Li** 
+
+"AI will probably most likely lead to the end of the world, but in the meantime, there'll be great companies." **--Sam Altman** 
+
+"By far, the greatest danger of AI is that people conclude too early that they understand it." **--Elon Musk** 
+
+"Machine intelligence is the last invention that humanity will ever need to make." **--Nick Bostrom**  
+
 ## What is AI? 
 Artificial Intelligence (AI) is a new technical science that studies and develops theories, methods, techniques, and application systems for simulating and extending human intelligence. In 1956, the concept of AI was first proposed by John McCarthy, who defined the subject as “Science and engineering of making intelligent machines, especially intelligent computer program. AI is concerned with making machines work in an interdisciplinary course that involves various fields.
 
