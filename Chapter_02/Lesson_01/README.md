@@ -79,3 +79,14 @@ print(type(greeting))   # <class 'str'>
 ```
 
 Variables in Python provide a flexible way to handle different kinds of data. The language supports several simple (primitive) data types—integers, floats, strings, booleans, and ```None```—which form the foundation for more complex data structures and operations. Understanding how to effectively use variables and manipulate these basic data types is essential for writing clean, efficient, and functional Python code, especially in fields such as AI and machine learning where data handling and transformation are fundamental.
+
+## Comments
+- Single-line comment: ```# This is a comment```
+- Multi-line comment: Use triple quotes (for documentation, not real comments)
+
+```
+"""
+This is a multi-line
+comment or docstring.
+"""
+```
