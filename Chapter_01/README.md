@@ -8,3 +8,5 @@ Huawei’s AI strategy in 2025, centered on its "All Intelligence" vision, aims 
 [Lesson 3 Huawei’s AI strategy & open AI capabilities from Huawei Cloud EI](Lesson_03/README.md)
 
 [Lesson 4 Huawei AI Certification Overview](Lesson_04/README.md)
+
+[Lesson 5 A Discussion on AI Trends & Huawei Strategy](Lesson_05/README.md)
