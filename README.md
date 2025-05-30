@@ -6,4 +6,4 @@ Exam Preparation and Learning Fun
 - **AI and Machine Learning**: Fundamentals for AI
 - **AI Agents**: AI based application design and development
 
-[Lesson 1 Introduction to AI & Huawei Strategy](Lesson_01/README.md)
+[Chapter 1 Introduction to AI & Huawei Strategy](Chapter_01/README.md)
