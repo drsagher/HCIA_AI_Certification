@@ -1,3 +1,4 @@
 # Lesson 2 Industrial Transformation and Challenges
 Artificial Intelligence (AI) is revolutionizing industries by automating processes, optimizing supply chains, and enhancing decision-making in sectors like manufacturing, healthcare, and logistics, driving unprecedented efficiency and innovation. AI-powered predictive maintenance reduces downtime, while intelligent robotics streamline production, and data analytics transform customer experiences. However, implementing AI faces challenges, including high costs of infrastructure and talent, data privacy and security concerns, ethical issues like algorithmic bias, and workforce displacement requiring reskilling. Additionally, integrating AI with legacy systems and ensuring regulatory compliance pose significant hurdles, necessitating strategic planning and robust governance to fully realize AI’s transformative potential.
 
+## AI Industry Ecosystem
