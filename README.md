@@ -15,4 +15,3 @@ The **HCIA-AI (Huawei Certified ICT Associate - Artificial Intelligence)** certi
 
 [Chapter 2 Python for AI (ModelArts Tools)](Chapter_02/README.md)
 
-[MVC-401 Introduction to Python Programming](../MVIT/Courses/Introduction_to_Python_Programming/Readme.md)
