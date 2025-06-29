@@ -15,4 +15,6 @@ The **HCIA-AI (Huawei Certified ICT Associate - Artificial Intelligence)** certi
 
 [Chapter 2 Python for AI (ModelArts Tools)](Chapter_02/README.md)
 
+## Div Deep Into
+
 [Learning Material for AI & Machine Learning](study_material/Readme.md)
