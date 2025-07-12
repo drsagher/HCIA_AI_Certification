@@ -9,6 +9,12 @@ The **HCIA-AI (Huawei Certified ICT Associate - Artificial Intelligence)** certi
 - **AI and Machine Learning**: Fundamentals for AI
 - **AI Agents**: AI based application design and development
 
+
+**Hot Topics**
+
+[Huawei MindSpore AI Framework](Topics/Topic001/Reamde.md)
+
+
 **Chapterization**
 
 [Chapter 1 Introduction to AI & Huawei Strategy](Chapter_01/README.md)
