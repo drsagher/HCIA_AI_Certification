@@ -13,7 +13,7 @@
 - Enterprise-ready (used in Huawei Cloud, 5G, smart cities)
 - Open-source (Apache 2.0 license)
   
-## Overall Architecture
+## Architecture
 The overall architecture of MindSpore is as follows:
 - **Model Suite**: Provides developers with ready-to-use models and development kits, such as the large model suite MindSpore Transformers, MindSpore ONE, and scientific computing libraries for hot research areas;
 - **Deep Learning + Scientific Computing**: Provides developers with various Python interfaces required for AI model development, maximizing compatibility with developers' habits in the Python ecosystem;
@@ -21,7 +21,7 @@ The overall architecture of MindSpore is as follows:
 
 <img src="arch_en.png" alt="ai architecture"/>
 
-## Introduction to Huawei Ascend AI Full-Stack Solution
+## Huawei Ascend AI Full-Stack Solution
 Ascend computing is a full-stack AI computing infrastructure and application based on the Ascend series processors. It includes the Ascend series chips, Atlas series hardware, CANN chip enablement, MindSpore AI framework, ModelArts, and MindX application enablement.
 
 Huawei Atlas AI computing solution is based on Ascend series AI processors and uses various product forms such as modules, cards, edge stations, servers, and clusters to build an all-scenario AI infrastructure solution oriented to device, edge, and cloud. It covers data center and intelligent edge solutions, as well as the entire inference and training processes in the deep learning field.
