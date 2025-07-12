@@ -2,6 +2,12 @@
 
 [Huawei MindSpore](https://www.mindspore.cn/en) is an open-source deep learning framework designed for training and inference across mobile, edge, and cloud scenarios. Written in C++ and compatible with Python, it operates under the Apache-2.0 license, allowing users to freely use, modify, and distribute the software. MindSpore aims to simplify AI development by offering a unified programming interface, seamless integration with frameworks like TensorFlow and PyTorch, and visual tools to lower entry barriers for developers. It supports Huawei’s Ascend AI processors, as well as GPUs and CPUs, ensuring efficient execution through software-hardware co-optimization.
 
+## Overall Architecture
+The overall architecture of MindSpore is as follows:
+- **Model Suite**: Provides developers with ready-to-use models and development kits, such as the large model suite MindSpore Transformers, MindSpore ONE, and scientific computing libraries for hot research areas;
+- **Deep Learning + Scientific Computing**: Provides developers with various Python interfaces required for AI model development, maximizing compatibility with developers' habits in the Python ecosystem;
+- **Core**: As the core of the AI framework, it builds the Tensor data structure, basic operation operators, autograd module for automatic differentiation, Parallel module for parallel computing, compile capabilities, and runtime management module.
+
 ## What is MindSpore?
 - An open-source, full-stack AI framework by Huawei for device-edge-cloud AI development.
 - Optimized for Ascend AI processors (Huawei’s NPUs) but also supports GPUs/CPUs.
