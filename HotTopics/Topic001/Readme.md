@@ -24,12 +24,12 @@
 
 MindSpore’s computational graph is a dynamic, versatile representation of neural network operations, forming the backbone for tasks like computer vision (CV). Its execution engine translates these graphs into optimized commands, ensuring seamless performance across hardware. For AI vision, MindSpore supports tasks like image classification and object detection by providing pre-trained models and efficient operators/kernels tailored for CV. The framework’s decision-making process relies on its ability to optimize computational graphs and leverage federated meta-learning, enabling real-time updates and high accuracy in vision-based applications, such as improving wrist-lift recognition on Huawei Watch GT by 80% with minimal latency.viso.aihuaweicentral.com
 
-Benefits and Community
+## Benefits and Community
 
-Ease of Development: User-friendly APIs, transparent debugging, and a 20% reduction in code complexity make it accessible to beginners and experts.huawei.com
-Performance: Optimizations like automatic parallelism reduce training time (e.g., 23% faster for ResNet-50, 62% for BERT).cio.com
-Open Ecosystem: Open-sourced in March 2020, MindSpore has a growing community with over 170,000 developers and supports collaboration via GitHub, Gitee, and forums.huaweicentral.com
-Applications: Widely used in CV, NLP, and audio tasks, with real-world applications like Huawei’s PanGu-Σ LLM and smart device feature
+- **Ease of Development**: User-friendly APIs, transparent debugging, and a 20% reduction in code complexity make it accessible to beginners and experts.huawei.com
+- **Performance**: Optimizations like automatic parallelism reduce training time (e.g., 23% faster for ResNet-50, 62% for BERT).cio.com
+- **Open Ecosystem**: Open-sourced in March 2020, MindSpore has a growing community with over 170,000 developers and supports collaboration via GitHub, Gitee, and forums.huaweicentral.com
+- **Applications**: Widely used in CV, NLP, and audio tasks, with real-world applications like Huawei’s PanGu-Σ LLM and smart device feature
 
 
 [Click to open MindSpore Officail Website](https://www.mindspore.cn/en)
