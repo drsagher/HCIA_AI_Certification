@@ -43,4 +43,6 @@ MindSpore’s computational graph is a dynamic, versatile representation of neur
 - **Applications**: Widely used in CV, NLP, and audio tasks, with real-world applications like Huawei’s PanGu-Σ LLM and smart device feature
 
 
-[Click to open MindSpore Officail Website](https://www.mindspore.cn/en)
+[Website Link](https://www.mindspore.cn/en)
+
+[GitHUb Repo Link](https://github.com/mindspore-ai/mindspore)
