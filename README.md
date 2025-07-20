@@ -9,6 +9,9 @@ The **HCIA-AI (Huawei Certified ICT Associate - Artificial Intelligence)** certi
 - **AI and Machine Learning**: Fundamentals for AI
 - **AI Agents**: AI based application design and development
 
+**Course Outline**
+
+[Huawei HCCDA-AI Syllabus](Syllabus/Readme.md)
 
 **Chapterization**
 
